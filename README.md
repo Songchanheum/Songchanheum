@@ -1,5 +1,18 @@
-# 안녕하세요! 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongchanheum%2Fhit-counter&count_bg=%23AC4FAE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 안녕하세요! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongchanheum%2Fhit-counter&count_bg=%23AC4FAE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<a href="https://app.daily.dev/bsk9212" target="_blank">
+  <img 
+    src="https://github.com/Songchanheum/Songchanheum/blob/main/devcard.svg" 
+    width="256"
+    align="right"/>
+</a>
+
+### 송찬흠 입니다! 
+- 7년차 Front-end Developer
+- 새로운 도전을 좋아하는 열정이 넘치는 인재입니다
+
+### Show Me
+
 <div align="left">
   <a href="https://www.instagram.com/songch_/" target="_blank">
   <img src="https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white"/>
@@ -12,17 +25,9 @@
     <img
       src="https://img.shields.io/badge/portfolio-529323?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://app.daily.dev/bsk9212" target="_blank">
-    <img 
-      src="https://github.com/Songchanheum/Songchanheum/blob/main/devcard.svg" 
-      width="256"
-      align="right"/>
-  </a>
+
 </div>
 
-## 송찬흠 입니다!
-- 7년차 Front-end Developer
-- 새로운 도전을 좋아하는 열정이 넘치는 인재입니다
 
 <div align=left><h3>STACKS</h3></div>
 <div align=left>
