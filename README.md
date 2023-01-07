@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
 </div>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Songchanheum&layout=compact&bg_color=292c33&title_color=c1a876&text_color=d07176&border_color=e2e4e8&show_icons=true&card_width=450&icon_color=e2e4e8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Songchanheum&layout=compact&show_icons=true&card_width=450&theme=radical)
  
 ### STATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Songchanheum&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
