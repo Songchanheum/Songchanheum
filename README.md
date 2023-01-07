@@ -57,11 +57,11 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
 </div>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Songchanheum&layout=compact&show_icons=true&card_width=450&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Songchanheum&layout=compact&show_icons=true&card_width=450&theme=onedark)
  
 ### STATS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Songchanheum&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Songchanheum&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Songchanheum&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Songchanheum&theme=onedark)
 
 
