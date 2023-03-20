@@ -8,7 +8,8 @@
 </a>
 
 ### 송찬흠 입니다!  
-- 7년차 Front-end Developer
+- 7년차 Web Developer
+- 3년차 Front-end Developer
 - 새로운 도전을 좋아하는 열정이 넘치는 인재입니다
 
 ### SHOW ME
