@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/songch_/" target="_blank">
   <img src="https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://bsk9212.medium.com/" target="_blank">
+  <a href="https://songsblog.vercel.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/blog-333333?style=flat-square&logo=medium&logoColor=white"/>
   </a>
