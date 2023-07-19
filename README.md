@@ -26,6 +26,10 @@
     <img
       src="https://img.shields.io/badge/portfolio-529323?style=flat-square&logo=github&logoColor=white"/>
   </a>
+  <a href="https://songsintroduce.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/portfoliov2-529323?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 
 </div>
 
