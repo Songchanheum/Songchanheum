@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/bsk9212" target="_blank">
   <img 
     src="https://github.com/Songchanheum/Songchanheum/blob/main/devcard.svg" 
-    width="256"
+    width="256" 
     align="right"/>
 </a>
 
