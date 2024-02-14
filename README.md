@@ -15,7 +15,7 @@
     <img
       src="https://img.shields.io/badge/dailydev-aaaaaa?style=flat-square&logo=dev.to&logoColor=white"/>
   </a>
-  <a href="https://songsintroduce.vercel.app/" target="_blank">
+  <a href="https://songsintroduce.vercel.app/main" target="_blank">
     <img
       src="https://img.shields.io/badge/portfolio-ff33ff?style=flat-square&logo=github&logoColor=white"/>
   </a>
