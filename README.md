@@ -78,6 +78,6 @@
 ### STATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Songchanheum&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Songchanheum&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Songchanheum&theme=discord&row=2&column=3&title=MultiLanguage,Commits,PullRequest,Experience,Repositories,Followers)
 
 
