@@ -1,4 +1,5 @@
-# 안녕하세요! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongchanheum%2Fhit-counter&count_bg=%23AC4FAE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [Click!!](https://profile-mac-os.vercel.app/)  Move to Profile OS
+# 안녕하세요! 👋 [Click!!](https://profile-mac-os.vercel.app/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongchanheum%2Fhit-counter&count_bg=%23AC4FAE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <a href="https://app.daily.dev/bsk9212" target="_blank">
   <img 
